@@ -4,6 +4,8 @@
 
 This project is a web application that allows users to generate images using OpenAI's DALL-E model. It is built using Flask for the backend and Bootstrap for the frontend.
 
+![screenshot](https://raw.githubusercontent.com/shaheryaryousaf/ai-image-generator/main/Capture.JPG)
+
 ## Features
 
 - User-friendly interface for generating images
